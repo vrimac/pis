@@ -7,6 +7,7 @@ namespace asd
         static void Main(string[] args)
         {
             Console.WriteLine("Novo");
+            Console.WriteLine("sdlfkj");
         }
     }
 }
