@@ -6,5 +6,8 @@ namespace asd
 {
     class NewClass
     {
+        public void MetodaWEB()
+        {
+        }
     }
 }
