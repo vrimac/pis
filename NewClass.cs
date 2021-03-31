@@ -8,7 +8,7 @@ namespace asd
     {
         public void MetodaWEB()
         {
-            Console.WriteLine("Ispis")
+            Console.WriteLine("Ispis");
         }
     }
 }
